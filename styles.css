@@ -1,0 +1,202 @@
+header {
+  display: flex;
+  flex-direction: column;
+  max-width: 60%;
+  margin: auto;
+  align-items: center;
+}
+.headerbg {
+  background-color: #f8f8f8;
+  border: 1px solid;
+  width: 100%;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4.8rem;
+}
+
+h1 {
+  margin-bottom: 0.8rem;
+}
+
+.subtitle {
+  max-width: 543.25px;
+  text-align: center;
+}
+
+/* Navigation Bar */
+
+ul {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-paths {
+  display: block;
+}
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+
+/* Main section */
+
+.container{
+  display: flex;
+  max-width: 60%;
+  margin: 6rem auto;
+  justify-content: space-between;
+}
+
+main{
+  margin-right: 3rem;
+  width: 70%;
+  
+  
+}
+.sidebar{
+  width: 30%;
+}
+
+footer{
+  padding: 4rem;
+}
+.article-recent{
+  display: flex;
+  text-align: left;
+  justify-content: space-between;
+  margin-bottom: 11rem;
+
+  
+}
+
+.imgdetail{
+  margin-right: 2rem;
+  text-align: left;
+  width: 30%;
+}
+.contentforimg{
+  width: 70%;
+}
+
+
+.article-body{
+  margin-bottom: 2rem;
+  text-align: left;
+  
+  
+}
+.continueread{
+  display: block;
+  margin-bottom: 2rem;
+}
+.recent1{
+  margin-top: 2rem;
+}
+
+.imagesubtitle{
+  margin-top: 1rem;
+}
+
+/* Sidebar Content */
+
+.feature-image-subtitle{
+  margin: 2rem 0 2rem 0;
+}
+
+.aboutme, .recentposts{
+  border: 1.4rem solid #EBEBEB;
+  padding: 2rem;
+
+}
+.sidebar-common-margin{
+  margin: 1rem 0 1rem 0;
+}
+.sidebar-image-subtitle{
+  margin: 1rem 0 1rem 0;
+}
+hr{
+  margin: 1rem 0 1rem 0;
+}
+
+
+.sidebar-image{
+  width: 100%;
+  height: 40%;
+  object-fit: cover;
+}
+
+.article-featured-image{
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  object-position: bottom;
+}
+.recentimg{
+  width: 100%;
+  height: 120%;
+  object-fit: cover;
+}
+.recentleafimg{
+  width: 100%;
+  height: 120%;
+  object-fit: cover;
+  object-position: 11% 0;
+}
+
+.sidebar-image-prof{
+  width: 100%;
+  height: 190px;
+  object-fit: cover;
+}
+.sidebar-image-others{
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+
+}
+
+
+
+
+.article-featured-image-aboutmepage{
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  object-position: 0% 57%;
+  margin-bottom: 4rem;
+}
+
+
+.currentpage{
+  text-decoration: underline;
+  color: #717171;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #143774;
+  color: #FFFFFF;
+}
+

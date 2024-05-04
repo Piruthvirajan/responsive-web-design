@@ -1,0 +1,74 @@
+/* Typography */
+h1 {
+  font-size: 4rem;
+  font-family: Lora;
+  font-weight: 400;
+  color: #143774;
+}
+.subtitle {
+  font-size: 1.6rem;
+  font-family: Ubuntu;
+  font-weight: 700;
+  color: #1792d2;
+}
+
+nav {
+  font-size: 1.6rem;
+  font-family: Ubuntu;
+  font-weight: 700;
+}
+.nav-paths {
+  color: #707070;
+  text-decoration: none;
+}
+
+
+/* Main */
+
+.imagesubtitle{
+  color: #707070;
+  font-size: 1.4rem;
+}
+.article-title{
+  color: #143774;
+  font-size: 2.4rem;
+  font-family: Lora, Regular;
+  margin-bottom: 2rem;
+}
+.continueread{
+  color: #1792D2;
+  text-transform: uppercase;
+  font-family: Ubuntu;
+  font-weight: 900;
+  letter-spacing: 2.4px;
+  font-size: 1.4rem;
+  text-decoration: none;
+  
+}
+.article-link-anchors{
+  color:#1792D2 ;
+}
+strong{
+ color:#707070 ; 
+ font-weight: 900;
+ 
+}
+footer{
+  font-size: 1.8rem;
+}
+
+.copyright{
+  opacity: 54%;
+}
+/* Sidebar Content */
+
+.sidebar-title{
+  color: #143774;
+  font-size: 1.8rem;
+}
+
+
+.sidebar-image-subtitle-profile, .sidebar-image-subtitle{
+  color: #143774;
+  font-size: 1.4rem;
+}
